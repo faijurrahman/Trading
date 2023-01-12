@@ -1,0 +1,2 @@
+https://github.com/jmcnamara/XlsxWriter/tree/main/examples
+https://github.com/codebasics/py/tree/master/pandas/4_read_write_to_excel
